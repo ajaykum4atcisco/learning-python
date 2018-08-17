@@ -1,7 +1,7 @@
 # learning-python
 Learn python by examples
 In this course we will learn python basic using python 2.7
-Course content
+---> Course content : -->
 1. Different Data types by example
 2. Basic operations by Example
 3. Loops and conditional statements
