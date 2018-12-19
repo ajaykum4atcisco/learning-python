@@ -40,5 +40,5 @@ def test_time_taken_to_calculate():
 		prime.isprime(i)
 	t1 = time.time()
 	t = t1-t0
-	assert t < 0.3
+	assert t < 0.4
 	
